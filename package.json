@@ -1,0 +1,14 @@
+{
+  "name": "Node5_CSV_to_JSON",
+  "version": "0.0.0",
+  "description": "Command line tool to convert CSV to JSON",
+  "main": "csv-to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam T. Smith",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "lodash": "~3.10.0"
+  }
+}
